@@ -1,0 +1,15 @@
+{
+  "name": "youtube-full-backend-project-learning",
+  "version": "1.0.0",
+  "description": "Full Youtube Clone Project With Fully Backend Functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Abhinash Gupta",
+  "license": "ISC"
+}
